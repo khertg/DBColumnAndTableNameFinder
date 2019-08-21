@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            },
+            "System.Data.Odbc": {
+              "target": "Package",
+              "version": "[4.5.0, )"
             }
           },
           "imports": [
